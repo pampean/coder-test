@@ -1,2 +1,2 @@
 # coder-test
-Este es mi primero repositorio de CoderHouse
+Este es mi primer repositorio de CoderHouse
